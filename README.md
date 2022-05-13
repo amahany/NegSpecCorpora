@@ -1,1 +1,1 @@
-# Negation and-Speculation Corpora
+# Negation and Speculation Corpora
