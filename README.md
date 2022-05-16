@@ -7,8 +7,7 @@ The negation and speculation annotated corpora for multiple languages and variou
 |1|2007|BioInfer|English |Biomedical|1,100|√||√|||√|
 |2|2008|GENIA|English|Biomedical|9,372|√|√||√||√|
 |3|2008|BioScope|English|Biomedical|20,924|√|√|√|||√|
-|4|2010|CoNLL-2010|English|Biological
-Wikipedia|40,289||√|√|||√|
+|4|2010|CoNLL-2010|English|Biological, Wikipedia|40,289||√|√|||√|
 |5|2010|Product Review|English|Review|2,111|√||√||||
 |6|2010|Stockholm EPR|Swedish|Clinical|6,740|√|√|||||
 |7|2011|PropBank FOC|English|Journal stories |3,779|√||||√|√|
