@@ -1,5 +1,6 @@
 # Negation and Speculation Corpora
 
+The negation and speculation annotated corpora for multiple languages and various domains are listed in this table.
 
 |Ref.|Year|Corpus|Language|Domain|Size |Neg. |Spec.|Scope|Event|Focus|Avail|
 | --- | ---| --- | ---| --- | ---| --- | ---| --- | ---| --- | --- |
