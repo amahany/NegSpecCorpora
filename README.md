@@ -18,7 +18,7 @@ The negation and speculation annotated corpora for multiple languages and variou
 |12|2014|EMC|Dutch|Clinical|12,888 medical terms|√|||
 |13|2015|Twitter Negation|English|Tweets|4,000 |√|||
 |14|2015|CNeSp|Chinese|Literature, Reviews, Financial articles|16,841|√|√|√|
-|15|2016|DT-Neg|English|Dialogues|27,785 responses|√||√|
+|15|2016|DT-Neg|English|Dialogues|27,785 responses|√||[Link](http://deeptutor.memphis.edu/resources.htm)|
 |16|2016|EMR|Chinese|Biomedical|36,828|√|||
 |17|2016|GNSC|German|Biomedical|2,234|√|√||
 |18|2016|BioArabic|Arabic|Biomedical|10,165|√|√||
