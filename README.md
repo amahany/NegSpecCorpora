@@ -2,7 +2,7 @@
 
 The negation and speculation annotated corpora for multiple languages and various domains are listed in this table.
 
-|Ref.|Year|Corpus|Language|Domain|Size |Neg. |Spec.|Avail.|
+|Ref.|Year|Corpus|Language|Domain|Size |Neg. |Spec.|Link|
 | :--- | :---| :--- | :---| :--- | :---| :--- | :---| :--- |
 |1|2007|BioInfer|English |Biomedical|1,100|√||√|
 |2|2008|GENIA|English|Biomedical|9,372|√|√|√|
