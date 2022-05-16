@@ -24,7 +24,7 @@ The negation and speculation annotated corpora for multiple languages and variou
 |18|2016|BioArabic|Arabic|Biomedical|10,165|√|√||
 |19|2017|IULA|Spanish|Biomedical|3,194|√||[Link](http://eines.iula.upf.edu/brat//#/NegationOnCR_IULA/)|
 |20|2017|UHU-HUVR|Spanish|Clinical|8,412|√|||
-|21|2017|SFU ReviewSP NEG|Spanish|Review|9,455|√||√|
+|21|2017|SFU ReviewSP NEG|Spanish|Review|9,455|√||[Link](http://clic.ub.edu/corpus/es/node/171)|
 |22|2017|News (Fact-Ita Bank) and Tweets|Italian|News stories, Tweets|1,591|√|||
 |23|2018|SFU SOCC|English|Opinion|1,043 comments|√||[Link](https://github.com/sfu-discourse-lab/SOCC)|
 |24|2018|NegPar|English-Chinese|Short stories|5520 E 5005 C|√||[Link](https://github.com/qianchu/NegPar)|
