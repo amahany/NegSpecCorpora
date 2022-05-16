@@ -6,13 +6,13 @@ The negation and speculation annotated corpora for multiple languages and variou
 | :--- | :---| :--- | :---| :--- | :---| :--- | :---| :--- |
 |1|2007|BioInfer|English |Biomedical|1,100|√||√|
 |2|2008|GENIA|English|Biomedical|9,372|√|√|[Link](http://www.geniaproject.org/genia-corpus)|
-|3|2008|BioScope|English|Biomedical|20,924|√|√|√|
-|4|2010|CoNLL-2010|English|Biological, Wikipedia|40,289||√|√|
+|3|2008|BioScope|English|Biomedical|20,924|√|√|[Link](https://rgai.sed.hu/sites/rgai.sed.hu/files/bioscope.zip)|
+|4|2010|CoNLL-2010|English|Biological, Wikipedia|40,289||√|[Link](https://rgai.sed.hu/node/118)|
 |5|2010|Product Review|English|Review|2,111|√|||
 |6|2010|Stockholm EPR|Swedish|Clinical|6,740|√|√||
 |7|2011|PropBank FOC|English|Journal stories |3,779|√||√|
-|8|2012|SFU Review|English|Review|17,263 |√|√|√|
-|9|2012|ConanDoyle-neg|English|Short stories|4,423|√||√|
+|8|2012|SFU Review|English|Review|17,263 |√|√|[Link](http://www.sfu.ca/~mtaboada/SFU_Review_Corpus.html)|
+|9|2012|ConanDoyle-neg|English|Short stories|4,423|√||[Link](https://www.clips.ua.ac.be/sem2012-st-neg/)|
 |10|2014|hUnCertainty|Hungarian|Misc.|15,203||√||
 |11|2014|Review and Newspaper|Japanese|Review,Newspaper|2,147|√||√|
 |12|2014|EMC|Dutch|Clinical|12,888 medical terms|√|||
