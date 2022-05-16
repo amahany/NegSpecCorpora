@@ -14,10 +14,10 @@ The negation and speculation annotated corpora for multiple languages and variou
 |8|2012|SFU Review|English|Review|17,263 |√|√|√|||√|
 |9|2012|ConanDoyle-neg|English|Short stories|4,423|√||√|√||√|
 |10|2014|hUnCertainty|Hungarian|Misc.|15,203||√|||||
-| 11|2014|Review and Newspaper|Japanese|Review,Newspaper|2,147|√||||√|√|
+|11|2014|Review and Newspaper|Japanese|Review,Newspaper|2,147|√||||√|√|
 |12|2014|EMC|Dutch|Clinical|12,888 medical terms|√|||√|||
 |13|2015|Twitter Negation|English|Tweets|4,000 |√||√||||
-|14|2015|CNeSp|Chinese|literature,reviews,financial articles|16,841|√|√|√|||√|
+|14|2015|CNeSp|Chinese|Literature, Reviews, Financial articles|16,841|√|√|√|||√|
 |15|2016|DT-Neg|English|Dialogues|27,785 responses|√||√||√|√|
 |16|2016|EMR|Chinese|Biomedical|36,828|√||√||||
 |17|2016|GNSC|German|Biomedical|2,234|√|√|√|√|||
@@ -35,7 +35,7 @@ The negation and speculation annotated corpora for multiple languages and variou
 |29|2020|NUBES|Spanish|Biomedical|29,682|√|√|√|√||√|
 |30|2020|NewsComm|Spanish|Comments|4,980|√||√|√|√|√|
 |31|2021|T-MexNeg|Mexican Spanish|Tweets|13,704|√||√|√||√|
-|32|2021|ArNeg|Arabic|Wikipedia Biography Religion|6,000|√||√||||
+|32|2021|ArNeg|Arabic|Wikipedia, Biography, Religion|6,000|√||√||||
 
 
 
