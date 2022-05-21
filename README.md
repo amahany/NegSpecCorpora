@@ -37,3 +37,5 @@ The negation and speculation annotated corpora for multiple languages and variou
 |31|2021|T-MexNeg|Mexican Spanish|Tweets|13,704|√||[Link](https://gitlab.com/gil.iingen/negation_twitter_mexican_spanish)|
 |32|2021|ArNeg|Arabic|Wikipedia, Biography, Religion|6,000|√|||
 
+
+Mahany, A.; Khaled, H.; Elmitwally, N.S.; Aljohani, N.; Ghoniemy, S. Negation and Speculation in NLP: A Survey, Corpora, Methods, and Applications. Appl. Sci. 2022, 12, 5209. https://doi.org/10.3390/app12105209
